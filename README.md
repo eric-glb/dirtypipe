@@ -1,6 +1,6 @@
 # dirtypipe (CVE-2022-0847)
 
-!(screenshot)[./files/dirtypipe.png]
+![screenshot](./files/dirtypipe.png)
 
 ## References: 
 - [ArsTechnica article](https://arstechnica.com/information-technology/2022/03/linux-has-been-bitten-by-its-most-high-severity-vulnerability-in-years/)

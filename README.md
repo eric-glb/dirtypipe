@@ -7,7 +7,7 @@
 
 ## Objective
 
-Build a static exploit that can be run on any Linux server
+Build a static exploit that can be run on any Linux server.
 
 ## How to build
 

